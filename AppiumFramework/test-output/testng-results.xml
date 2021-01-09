@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="265271" started-at="2021-01-10T00:22:28 IST" finished-at="2021-01-10T00:26:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="265271" started-at="2021-01-10T00:22:28 IST" finished-at="2021-01-10T00:26:53 IST">
+      <class name="Project.AppiumFramework.TC_01">
+        <test-method status="PASS" signature="bt()[pri:0, instance:Project.AppiumFramework.TC_01@8646db9]" name="bt" is-config="true" duration-ms="5094" started-at="2021-01-10T00:22:28 IST" finished-at="2021-01-10T00:22:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="testcase1()[pri:1, instance:Project.AppiumFramework.TC_01@8646db9]" name="testcase1" duration-ms="120745" started-at="2021-01-10T00:22:33 IST" finished-at="2021-01-10T00:24:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:2, instance:Project.AppiumFramework.TC_01@8646db9]" name="testcase2" duration-ms="55280" started-at="2021-01-10T00:24:34 IST" finished-at="2021-01-10T00:25:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:3, instance:Project.AppiumFramework.TC_01@8646db9]" name="testcase3" duration-ms="21734" started-at="2021-01-10T00:25:29 IST" finished-at="2021-01-10T00:25:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="testcase4()[pri:4, instance:Project.AppiumFramework.TC_01@8646db9]" name="testcase4" duration-ms="29015" started-at="2021-01-10T00:25:51 IST" finished-at="2021-01-10T00:26:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="testcase5()[pri:5, instance:Project.AppiumFramework.TC_01@8646db9]" name="testcase5" duration-ms="33185" started-at="2021-01-10T00:26:20 IST" finished-at="2021-01-10T00:26:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- Project.AppiumFramework.TC_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
